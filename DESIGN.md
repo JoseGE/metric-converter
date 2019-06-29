@@ -2,15 +2,15 @@
 
 ## CRC
 
-<table border="1">
+<table>
 <tr>
     <td align="center" colspan="2">
-        File Manager
+       OperatorConverter
     </td>
 </tr>
 <tr>
     <th>Responsabilities</th>
-    <th>Colaborators</th>
+    <th>Collaborators</th>
 </tr>
 <tr>
     <td>
