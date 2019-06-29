@@ -17,7 +17,7 @@
     <tr><td>150,m,dc</td></tr>
     <tr><td>150|m|ml</td></tr>
     </table>
-Where m, dc, km and ml are meter, decameter, kilometer and millimeter. When you execute the program yo should get a new file with convertions with below estructure
+Where m, dc, km and ml are meter, decameter, kilometer and millimeter. When you execute the program yo should get a new file with convertions with next estructure
     <table>
     <tr><td>800,km,m</td></tr>
     <tr><td>150,m,dc</td></tr>
