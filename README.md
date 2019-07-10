@@ -23,7 +23,9 @@ command: `dart bin/main.dart` and input your file path
     </table>
 Where m, dc, km and ml are meter, decameter, kilometer and millimeter. When you execute the program yo should get a new file with convertions with next estructure
     <table>
-    <tr><td>800 , km , m</td></tr>
-    <tr><td>150 , m , in</td></tr>
-    <tr><td>150 | m | mi</td></tr>
+    <tr><td>Value:800 | From:cm | To: km | Result:0.0001</td></tr>
+    <tr><td>Value:150 | From:km | To: m | Result:150000</td></tr>
+    <tr><td>Value:150 | From:km | To: m | Result:150000</td></tr>
     </table> 
+
+ 
