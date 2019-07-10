@@ -2,24 +2,28 @@
 
 > This metric converter can work to perform transformations focused on distances (length) such as:
 * kilometer (km)
-* hectometer (hc)
-* decameter (dc)
 * meter (m)
-* decimeter (dc)
 * centimeter (cm)
-* millimeter (ml)
+* inch (in)
+* feet (ft)
+* mile (mi)
 
-## To use
+## Basic
 
-> You must have a file `source-to-convert`, this can by <b>txt</b> where contains data separated by lines and commas (,) or bar (|) like
+You need have installed dart enviroment, get from https://dart.dev/
+
+
+## How to use
+command: `dart bin/main.dart` and input your file path
+> You must have a file `source-to-convert`, this can only by <b>txt</b> file, where contains data separated by lines and commas (,) or bar (|) like
     <table>
-    <tr><td>800,km,m</td></tr>
-    <tr><td>150,m,dc</td></tr>
-    <tr><td>150|m|ml</td></tr>
+    <tr><td>800 , km , m</td></tr>
+    <tr><td>150 , m , in</td></tr>
+    <tr><td>150 | m | mi </td></tr>
     </table>
 Where m, dc, km and ml are meter, decameter, kilometer and millimeter. When you execute the program yo should get a new file with convertions with next estructure
     <table>
-    <tr><td>800,km,m</td></tr>
-    <tr><td>150,m,dc</td></tr>
-    <tr><td>150|m|ml</td></tr>
-    </table>
+    <tr><td>800 , km , m</td></tr>
+    <tr><td>150 , m , in</td></tr>
+    <tr><td>150 | m | mi</td></tr>
+    </table> 
